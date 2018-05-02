@@ -26,6 +26,17 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("{0}",item);
             }
+
+            //实例化
+            PhoneController pc = new PhoneController();
+            pc.AddItems("Shelly","15866523550");
+            pc.AddItems("Mark", "15866444550");
+            //查看
+            pc.ShowAll();
+            //修改
+            pc.UpdateItem("Mark1","110");
+            pc.DellItem("Mark1");
+            pc.ShowAll();
             Console.ReadKey();
         }
     }
