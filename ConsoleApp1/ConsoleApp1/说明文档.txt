@@ -1,0 +1,1 @@
+主要分为list泛型集合和dictionary泛型集合

@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            List<int> num = new List<int>();
+            Console.WriteLine( "");
+            Console.ReadKey();
         }
     }
 }
