@@ -10,9 +10,24 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            List<int> num = new List<int>();
-            Console.WriteLine( "");
+            //string command = Console.ReadLine();
+            //Console.WriteLine(command);
+            Dictionary<string, string> dic = new Dictionary<string, string>();
+            dic.Add("a", "aaa");
+            dic.Add("b", "bbb");
+            dic.Add("c", "ccc");
+            foreach (var item in dic.Keys)
+            {
+                Console.WriteLine("{0}:{1}",item,dic[item]);
+            }
+
+            dic.Remove("a");
+            foreach (var item in dic.Values)
+            {
+                Console.WriteLine("{0}",item);
+            }
             Console.ReadKey();
         }
     }
 }
+;
