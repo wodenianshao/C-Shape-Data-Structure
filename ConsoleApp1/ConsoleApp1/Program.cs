@@ -27,7 +27,7 @@ namespace ConsoleApp1
                 Console.WriteLine("{0}",item);
             }
 
-            //实例化
+            //实例化(通讯录)
             PhoneController pc = new PhoneController();
             pc.AddItems("Shelly","15866523550");
             pc.AddItems("Mark", "15866444550");
