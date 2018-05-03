@@ -19,8 +19,14 @@ namespace ConsoleApp3
             Bird bd = new Magpie();
             bd.Fly();
             * */
-            BaseClass bc = new DerivedClss();
+            //隐藏方法： 如果子类声明对象，调用隐藏方法会调用子类的；如果父类声明对象，调用隐藏方法会调用父类的。
+            DerivedClss bc = new DerivedClss();
+            bc.HideMethod();
 
+            Console.WriteLine("----------------");
+
+            BaseClass bc1 = new BaseClass();
+            bc1.HideMethod();
             Console.ReadKey();
         }
     }

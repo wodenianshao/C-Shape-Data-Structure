@@ -17,5 +17,10 @@ namespace ConsoleApp3
         {
             Console.WriteLine("基类构造函数{0}",x);
         }
+
+        public void HideMethod()
+        {
+            Console.WriteLine("这是一个隐藏方法");
+        }
     }
 }

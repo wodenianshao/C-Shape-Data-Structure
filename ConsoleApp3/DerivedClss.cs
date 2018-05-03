@@ -13,6 +13,9 @@ namespace ConsoleApp3
             Console.WriteLine("派生类构造函数");
         }
 
-
+        public new void HideMethod()
+        {
+            Console.WriteLine("子类的隐藏方法");
+        }
     }
 }
