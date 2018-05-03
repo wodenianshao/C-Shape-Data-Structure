@@ -42,7 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseClass.cs" />
     <Compile Include="Bird.cs" />
+    <Compile Include="DerivedClss.cs" />
     <Compile Include="Magpie.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

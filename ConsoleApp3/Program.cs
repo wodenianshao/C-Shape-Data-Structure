@@ -10,12 +10,17 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
+            /**
+             * 
             Magpie mp = new Magpie();
             mp.Fly();
 
             //可以使用抽象类申明对象，但是不可以实例化对象，需要通过子类去实现
             Bird bd = new Magpie();
             bd.Fly();
+            * */
+            BaseClass bc = new DerivedClss();
+
             Console.ReadKey();
         }
     }
