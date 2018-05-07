@@ -1,0 +1,7 @@
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

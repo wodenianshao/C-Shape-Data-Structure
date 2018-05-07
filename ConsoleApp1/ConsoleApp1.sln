@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{7100425C-C86E-4E93-934B-8B2FD7ACBE23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "..\ConsoleApp4\ConsoleApp4.csproj", "{66E5A479-0C70-48CF-8E1A-3EB170774B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "排序算法", "..\排序算法\排序算法.csproj", "{4A4E53E4-F744-48E0-9725-6A480E2ACE34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7100425C-C86E-4E93-934B-8B2FD7ACBE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7100425C-C86E-4E93-934B-8B2FD7ACBE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7100425C-C86E-4E93-934B-8B2FD7ACBE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E5A479-0C70-48CF-8E1A-3EB170774B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E5A479-0C70-48CF-8E1A-3EB170774B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E5A479-0C70-48CF-8E1A-3EB170774B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E5A479-0C70-48CF-8E1A-3EB170774B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4E53E4-F744-48E0-9725-6A480E2ACE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4E53E4-F744-48E0-9725-6A480E2ACE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4E53E4-F744-48E0-9725-6A480E2ACE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4E53E4-F744-48E0-9725-6A480E2ACE34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
