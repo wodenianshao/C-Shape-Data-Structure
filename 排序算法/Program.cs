@@ -13,7 +13,9 @@ namespace 排序算法
             int[] TestArray = new int[] { 1, 2, 55, 42, 88, 90, 36, 28 };
             Program p = new Program();
             //p.SelectArray(TestArray);
-            p.Bubbling(TestArray);
+            //p.Bubbling(TestArray);
+            //int index = p.ReduceHalf(TestArray,36);
+            Console.WriteLine("{0}", p.Bubbling(TestArray));
             Console.ReadKey();
         }
 
@@ -49,7 +51,7 @@ namespace 排序算法
         /// 冒泡排序
         /// </summary>
         /// <param name="arr"></param>
-        public void Bubbling(int[] arr)
+        public int Bubbling(int[] arr)
         {
             for (int j = 0; j < arr.Length - 1; j++)
             {
@@ -65,9 +67,36 @@ namespace 排序算法
                 }
             }
             OutPutArray(arr);
+            return ReduceHalf(arr, 36);
         }
-
-
-
+        /// <summary>
+        /// 折半查找
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <param name="keyCode"></param>
+        /// <returns></returns>
+        public int ReduceHalf(int []arr,int keyCode)
+        {
+            int max = arr.Length - 1;
+            int min = 0;
+            while(min < max)
+            {
+                int mid = (max + min) / 2;
+                if (keyCode < arr[mid])
+                {
+                    max = mid - 1;
+                }
+                else if(keyCode > arr[mid])
+                {
+                    min = mid + 1;
+                }
+                else
+                {
+                    return mid;
+                }
+                Console.WriteLine("{0}-{1}",min,max);
+            }
+            return -1;
+        }
     }
 }
