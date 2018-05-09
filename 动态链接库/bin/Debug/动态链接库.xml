@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>动态链接库</name>
+    </assembly>
+    <members>
+        <member name="M:动态链接库.MyCalc.Add(System.Single,System.Single)">
+            <summary>
+            两个数相加
+            </summary>
+            <param name="a">加数</param>
+            <param name="b">被加数</param>
+            <returns>结果</returns>
+        </member>
+        <member name="M:动态链接库.MyCalc.Subtraction(System.Single,System.Single)">
+            <summary>
+            两个数相减
+            </summary>
+            <param name="a">减数</param>
+            <param name="b">被减数</param>
+            <returns>差值</returns>
+        </member>
+        <member name="M:动态链接库.MyCalc.Multiplication(System.Single,System.Single)">
+            <summary>
+            两数相乘
+            </summary>
+            <param name="a">乘数</param>
+            <param name="b">被乘数</param>
+            <returns>积</returns>
+        </member>
+        <member name="M:动态链接库.MyCalc.Division(System.Single,System.Single)">
+            <summary>
+            两数相除
+            </summary>
+            <param name="a">除数</param>
+            <param name="b">被除数</param>
+            <waring>被除数不能为0</waring>
+            <returns>商值</returns>
+        </member>
+    </members>
+</doc>

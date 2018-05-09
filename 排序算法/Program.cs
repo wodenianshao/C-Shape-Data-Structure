@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using 动态链接库;
 
 namespace 排序算法
 {
@@ -16,6 +17,9 @@ namespace 排序算法
             //p.Bubbling(TestArray);
             //int index = p.ReduceHalf(TestArray,36);
             Console.WriteLine("{0}", p.Bubbling(TestArray));
+            MyCalc mc = new MyCalc();
+            float result = mc.Division(8,1);//mc.Add(4 , 5);
+            Console.WriteLine("result:{0}",result);
             Console.ReadKey();
         }
 

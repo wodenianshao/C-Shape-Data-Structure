@@ -5,3 +5,5 @@ D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\排序算法\obj\Debu
 D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\排序算法\obj\Debug\排序算法.csproj.CoreCompileInputs.cache
 D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\排序算法\obj\Debug\排序算法.exe
 D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\排序算法\obj\Debug\排序算法.pdb
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\排序算法\bin\Debug\动态链接库.exe
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\排序算法\bin\Debug\动态链接库.xml

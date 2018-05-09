@@ -1,0 +1,8 @@
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\bin\Debug\动态链接库.exe.config
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\bin\Debug\动态链接库.exe
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\bin\Debug\动态链接库.pdb
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\obj\Debug\动态链接库.csproj.CoreCompileInputs.cache
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\obj\Debug\动态链接库.exe
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\obj\Debug\动态链接库.pdb
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\bin\Debug\动态链接库.xml
+D:\用户目录\我的文档\GitHub\C-Shape-Data-Structure\动态链接库\obj\Debug\动态链接库.csprojResolveAssemblyReference.cache
